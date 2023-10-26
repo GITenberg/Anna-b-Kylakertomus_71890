@@ -1,0 +1,28 @@
+_repo: Anna-b-Kylakertomus_71890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Impola, Heikki
+    alias: Rasila, Heikki
+    birthdate: 1887
+    deathdate: 1971
+    gutenberg_agent_id: '56145'
+    url: http://www.gutenberg.org/2009/agents/56145
+    wikipedia: https://fi.wikipedia.org/wiki/Heikki_Impola
+description: ''
+gutenberg_issued: '2023-10-16'
+identifiers:
+  gutenberg: '71890'
+language: fi
+pgterms:marc905: 20220529074922impola
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Anna : $b Kyläkertomus'
+url: http://www.gutenberg.org/ebooks/71890
